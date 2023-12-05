@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+
+}
+
+#shosh {
+    width: 50%; 
+    margin: 0 auto;
+    background-color: yellowgreen;
+padding: 160px;
+border-radius: 50px
+}
+#shosh:hover{
+    background-color: rgb(127, 255, 138);
+}
+#yellow
+{
+    color: yellow;
+}
+#green
+{
+    font-weight:bold;
+}
+img
+{
+    border-radius: 30px;
+}
+

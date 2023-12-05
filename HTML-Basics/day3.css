@@ -1,0 +1,33 @@
+*
+body
+{
+    background: color blue
+}
+p
+{ 
+    border: 5px solid red;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1{
+    text-align-last: center;
+}
+h4{
+    text-align-last: center;
+}
+p
+{text-align-last: center;
+}
+#first {
+    border:blue dotted 5px;
+}
+
+    
+.dash{
+   border: yellow dashed 10px;
+}
+
+span {
+    font-weight: bold;
+}
