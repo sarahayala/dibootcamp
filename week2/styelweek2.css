@@ -1,0 +1,31 @@
+div
+{
+    display:flex;  
+    flex-direction: row;
+    height:500px;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+@media screen and (max-width:600px){ 
+    p{
+        background-color: blue;
+    }    
+}
+
+@media screen and (min-width:240px) and (max-width:600px){
+p{
+    background-color: red;
+}
+} 
+@media screen and (min-width:601px) and (max-width:840px) {
+    p{
+        background-color: blue;
+    }
+}  
+@media screen and (min-width:500px) and (max-width:900px) {
+   p{
+    padding: 50px;
+   } 
+}
