@@ -5,5 +5,11 @@ li.textContent = 'richard'
 const  sarah = document.getElementsByTagName('li')[3]
 console.log(sarah);
 sarah.remove()
-let firstmame
+
+let firstmame = document.getElementsByTagName('ul')
+console.log(firstmame);
+
+    
+
+
 
